@@ -1697,6 +1697,7 @@ body {
 }
 .cid-qTkA127IK8 H1 {
   color: #e4d295;
+  text-align: right;
 }
 .cid-qTkA127IK8 DIV {
   color: #ffffff;
@@ -1767,6 +1768,12 @@ body {
     justify-content: center;
     -webkit-justify-content: center;
   }
+}
+.cid-qTkAaeaxX5 B {
+  color: #f7ed4a;
+}
+.cid-qTkAaeaxX5 P {
+  color: #ffffff;
 }
 .cid-rRTJJuqsMF {
   padding-top: 0px;
